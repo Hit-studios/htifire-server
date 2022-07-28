@@ -1,1 +1,0 @@
-just a place to share files between my pc and my server
